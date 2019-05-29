@@ -1,1 +1,3 @@
 SelfLearningAIFlappyBird
+
+Alexandre Nguyen, Matthieu Hannoun
